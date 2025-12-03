@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cyborgnathan
+- 👋 Hello World, I’m @cyborgnathan
 - 👀 I’m interested in ... working on wordpress projects
 - 🌱 I’m currently learning ... Wordpress payment management  
 
